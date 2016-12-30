@@ -1,1 +1,1 @@
-# openEncrypt
+# OpenEncrypt
